@@ -6,3 +6,4 @@ These beginner programs cover:
 - Basic arithmetic operations
 
 This is my first step into C++.
+today i learnt some conditionals and loops for 7hrs
